@@ -1,1 +1,1 @@
-# Tiny-AOGS
+# Tiny-vGS
