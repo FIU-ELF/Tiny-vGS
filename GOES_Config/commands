@@ -1,0 +1,3 @@
+goesproc -c /usr/share/goestools/goesproc-goesr.conf -m packet  --subscribe tcp://127.0.0.1:5004
+
+goesrecv -v -i 1 -c GOES-16-HRIT.cfg
