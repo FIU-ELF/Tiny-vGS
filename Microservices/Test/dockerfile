@@ -1,8 +1,0 @@
-# Python Base Image from https://hub.docker.com/r/arm64v8/python/
-FROM arm64v8/python:3.9-bullseye
-
-# Copy the Python test Script
-COPY test.py ./
-
-# Trigger Python script
-CMD ["python", "./test.py"]
