@@ -11,7 +11,7 @@ Acquire images from a geostationary satellite (GOES) using a backyard Ground Sta
 3. Assemble and install your setup
 4. Point your dish
 5. Acquire your first image
-6. Design a cloud solution
+6. Design and performs trades on a cloud solution
 7. Infrastructure as Code
 8. Microservices
 9. Operations Support Systems
