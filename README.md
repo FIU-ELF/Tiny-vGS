@@ -22,6 +22,14 @@ Acquire images from a geostationary satellite ([GOES](/Docs/GOES.md)) using a ba
 
 1. Add LEO support
 
+# Thank you
+
+The open source software community is leveraged heavily in this project. 
+
+1. Thank you Pieter Noordhuis for your hard work with [GOES Tools](https://github.com/pietern/goestools) 
+2. Thank you to [Nooelec](https://www.nooelec.com/store/) for creating kits that make GOES more accessible to the every day user
+3. Thank you to the team that contributed to this project as part of the 2022 Microsoft Hackathon 
+
 
 
 
