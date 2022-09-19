@@ -12,7 +12,7 @@ Acquire images from a geostationary satellite ([GOES](/Docs/GOES.md)) using a ba
 5. Setup your edge device- Create an edge appliance that allows you to run virtualized radio functions: [Setup your edge](/Docs/EDGE.md)
 6. Virtualized Radio Functions & Infrastructure as Code- Learn about virtualized radio functions and infrastructure as code: [vRF & IAC](/Docs/IAC_VRF.md)
 7. Point your dish & acquire your first image- You are ready to point your dish! Let's try to get an image: [Point your dish](/Docs/POINTING.md)
-8. Design and performs trades on a cloud solution- Perform trade studies on how to create value added capability with the cloud: [The Cloud](/Docs/CLOUD.md)
+8. Design and perform trades on a Cloud based solution- Perform trade studies on how to create value added capability with the cloud: [The Cloud](/Docs/CLOUD.md)
 9. Microservices- Write microservices to expose metrics to your operations suspport systems: [Microservices](/Docs/MICRO.md)
 10. Operations Support Systems- Implement Operations Support Systems: [OSS](/Docs/OSS.md)
 11. Business Support systems- Use cloud Business Support Systems to understand billing: [BSS](/Docs/BSS.md)
