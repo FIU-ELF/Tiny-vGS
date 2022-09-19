@@ -2,6 +2,10 @@
 
 Tiny virtual Ground Station (vGS) is a Raspberry Pi based Ground Station meant to get students involved in the intersection of space and ground station virtualization.
 
+# Background
+
+Communities and remote users around the world rely on public weather data sets to have situational awareness of their environment. Virtualized ground stations by the top cloud providers help download weather satellite information at professional sites through Ground Stations as a Service (GSaaS) but what about the every person or unconnected community? The same principles that accerelate deploying professional installations can help them too! In this tutorial, you'll go through the motions to set up a weather satellite ground station using open source software that can run remotely. You'll also leverage cloud resources to create a "GSaaS like" environment to learn about the different tools used in real world ground stations.
+
 # Mission 
 
 Acquire images from a geostationary satellite ([GOES](/Docs/GOES.md)) using a backyard Ground Station setup. To do this, you'll acquire a ground station kit, use open source software to download an image and use the cloud to visualize system performance. You'll work through the steps to install & virtualize your setup:
