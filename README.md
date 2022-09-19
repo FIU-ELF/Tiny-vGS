@@ -9,14 +9,13 @@ Acquire images from a geostationary satellite (GOES) using a backyard Ground Sta
 1. Plan your installation
 2. Plan your BOM & acquire hardware
 3. Assemble and install your setup
-4. Point your dish
-5. Acquire your first image
+4. Containerized Radio Functions & Infrastructure as Code
+5. Point your dish & acquire your first image
 6. Design and performs trades on a cloud solution
-7. Infrastructure as Code
-8. Microservices
-9. Operations Support Systems
-10. Business Support systems
-11. Content Delivery Network
+7. Microservices
+8. Operations Support Systems
+9. Business Support systems
+10. Content Delivery Network
 
 # Future Ideas 
 
