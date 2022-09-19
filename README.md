@@ -16,7 +16,7 @@ Acquire images from a geostationary satellite ([GOES](/Docs/GOES.md)) using a ba
 9. Microservices- Write microservices to expose metrics to your operations suspport systems: [Microservices](/Docs/MICRO.md)
 10. Operations Support Systems- Implement Operations Support Systems: [OSS](/Docs/OSS.md)
 11. Business Support systems- Use cloud Business Support Systems to understand billing: [BSS](/Docs/BSS.md)
-12. Content Delivery Network- Create a Contend Delivery application for your images: [CDN](/Docs/CDN.md)
+12. Content Delivery Network- Create a Content Delivery application for your images: [CDN](/Docs/CDN.md)
 
 # Future Ideas 
 
