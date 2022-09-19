@@ -1,0 +1,29 @@
+version: "3.2"
+services:
+  goesproc:
+    image: fiuelf/goesproc:latest
+    container_name: goesproc
+    privileged: true
+    volumes:
+      - /mnt/goesimages:/opt/goes
+      - ./goesproc-goesr.conf:/usr/share/goestools/goesproc-goesr.conf
+    environment:
+       - TZ=America/New_York 
+       - IP_GOESRECV=10.0.0.21
+    restart: always
+  goesrecv:
+    image: fiuelf/goesrx:latest
+    container_name: goesreceiver
+    privileged: true
+    devices:
+      - "/dev/bus/usb"
+    environment:
+      - TZ=America/New_York 
+    ports:
+      - "5001:5001/tcp"
+      - "5002:5002/tcp"
+      - "5004:5004/tcp"
+      - "6001:6001/tcp"
+      - "6002:6002/tcp"
+      - "8125:8125/udp"
+    restart: always
