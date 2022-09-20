@@ -25,6 +25,7 @@ Acquire images from a geostationary satellite ([GOES](/Docs/GOES.md)) using a ba
 # Future Ideas 
 
 1. Add LEO support
+2. GPS NTP time
 
 # Thank you
 
