@@ -44,14 +44,16 @@ In a home installation, typical options include SMA lightning arrestors and grou
 | Grounding rod   | Grounding rod to ground antenna mount        | $40       | 1       | $40       | [Grounding rod kit](https://www.amazon.com/Electric-Satellite-Instruments-Generator-Grounding/dp/B09BLZ2M58/)       | If the install is a roof of a facility, there may be ground paths already that you can connect to. Grounding rods are meant to go into the ground of your backyard.       | 
 
 
-## Misc Hardware (Some of this you may have on hand)
+## Misc Hardware (Optional, some of this you may have on hand)
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Sockitbox      | Enclosure for cables and power supples       | $30       | 1       | $30       | [Box](https://www.amazon.com/gp/product/B006EUHT2W)  |  TBD       | 
 | SMA Cables   | Various SMA cables for interconnects        | $13       | 1       | $13       | [SMA cables](https://www.amazon.com/SDTC-Tech-Coaxial-Assembly-Extender/dp/B07NCLZWHH/)       | Depending on your install, you might need Misc SMA Cables    |
 | Step Drill Bit Kit   | Step Bits to help create the openings in the enclosure box        | $20       | 1       | $20       | [Step Bit Kit](https://www.amazon.com/gp/product/B09GXP5WSH)       | Step Bits are the easiest way to modify plastic enclosures       |   
-| Header   | Text        | Title       | Title       | Title       | Title       | Title       | 
-| Header   | Text        | Title       | Title       | Title       | Title       | Title       | 
-| Header   | Text        | Title       | Title       | Title       | Title       | Title       | 
-| GPS Unit   | Text        | Title       | Title       | Title       | Title       | Title       | 
+| USB A to USB A   | A cable to extend the RTL-SDR away from the Raspi        | $3       | 1       | $3       | [USB A to USB A](https://www.amazon.com/gp/product/B00CJG2ZYM/)       | Extends RTL-SDR from Raspi       | 
+| USB to Micro USB   | The cable needed for the LNA if you wish to use the Raspi for power        | $8       | 1       | $8       | [USB to Micro](https://www.amazon.com/gp/product/B01FSYBQ9Q/)       | Power LNA from Raspi       | 
+| Long USB Cable    | Long USB cable to provide power        | $10       | 1       | $10       | [USB Cable](https://www.amazon.com/gp/product/B00NH12O5I/)        | For USB powered enclosure       | 
+| GPS Unit   | A GPS unit to setup a time server at your gateway        | $20       | 1       | $20       | [GPS](https://www.amazon.com/gp/product/B01EROIUEW/)          | Not covered in the first release of this tutorial but a good option for GPS based NTP       | 
+
+
