@@ -8,8 +8,8 @@ All figures in the BOM are in USD.
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| GOES Kit      | This is our RF ground station kit       | $199       | 1       | $199       | Nooelec Goes Bundle](https://www.amazon.com/dp/B07K25Y1JW)         |  Comes with antenna, LNA and RTL-SDR       |    
-| Tripod   | Tripod to mount the antenna         | $52       | 1       | $52       | Tripod](https://www.amazon.com/Tripod-Satellite-Mount-Antenna-Network/dp/B0B2213CV7)       | NA      |    
+| GOES Kit      | This is our RF ground station kit       | $199       | 1       | $199       | [Nooelec Goes Bundle](https://www.amazon.com/dp/B07K25Y1JW)         |  Comes with antenna, LNA and RTL-SDR       |    
+| Tripod   | Tripod to mount the antenna         | $52       | 1       | $52       | [Tripod](https://www.amazon.com/Tripod-Satellite-Mount-Antenna-Network/dp/B0B2213CV7)       | NA      |    
 | Raspberry Pi 4   | This is our edge compute housing all our containerized RF and monitoring solutions        | $180       | 1       |   $180     | TBD       | Currently, there is a raspi shortage.       | 
 
 
@@ -24,8 +24,10 @@ All figures in the BOM are in USD.
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header      | Title       | Title       | Title       | Title       | Title       |  Title       |    
-| Header   | Text        | Title       | Title       | Title       | Title       | Title       |       
+| Enclosure      | Weatherproof enclosure 11.4"×7.5"×5.5"       | $35       | 1       | $35      | [Enclosure](https://www.amazon.com/gp/product/B09SLJY6RV)        |  NA      |    
+| SMA connector   | SMA connectors to connect RF LNA in enclosure to antenna through a bulkhead        | $8       | 1       | $8       | [SMA Connectors](https://www.amazon.com/dp/B00AA2HE34)     | NA       |       
+
+
 
 ## Lightning Protection & Grounding (optional) | Total: $70
 
