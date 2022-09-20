@@ -1,4 +1,6 @@
-# Ground Station Hardware Bill of Materials
+# Ground Station Hardware Bill of Materials (BOM)
+
+All figures in the BOM are in USD.
 
 ## Base Items
 
@@ -32,9 +34,11 @@ In a home installation, typical options include SMA lightning arrestors and grou
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Antenna Grounding Wire (12ga)      | Antenna to mount grounding       | Title       | Title       | Title       | Title       |  Title       |    
-| SMA Lightning Arrestor   | SMA lightning arrestor           |     | Title       | Title       | Title       | Title       | 
-| Grounding rod   | Grounding rod to ground antenna mount        | Title       | Title       | Title       | Title       | Title       | 
+| Antenna Grounding Wire (12ga)      | Antenna to mount grounding       | $12       | 1       | $12       | [Grounding Wire](https://www.amazon.com/Feet-7-5-Meter-Residential-Commerical/dp/B07JBQT8LY/)       |    Connect from the antenna to the mount     |    
+| SMA Lightning Arrestor   | SMA lightning arrestor           |  $18    | 1       | $18       | [SMA Lightning arrestor](https://www.amazon.com/dp/B07K25Y1JW)       | These have a life span due to the gas used in them.        | 
+| Grounding rod   | Grounding rod to ground antenna mount        | $40       | 1       | $40       | [Grounding rod kit](https://www.amazon.com/Electric-Satellite-Instruments-Generator-Grounding/dp/B09BLZ2M58/)       | If the install is a roof of a facility, there may be ground paths already that you can connect to. Grounding rods are meant to go into the ground of your backyard.       | 
+
+
 
 ## Misc Hardware
 
