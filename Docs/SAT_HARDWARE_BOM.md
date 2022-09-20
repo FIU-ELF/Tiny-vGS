@@ -1,10 +1,10 @@
-# Ground Station Hardware & Bill of Materials (BOM) | Cost: $431
+# Ground Station Hardware & Bill of Materials (BOM) 
 
 Real world Ground Station designs are often based on a standard baseline Bill of Materials with options for customization to meet user needs. In this tutorial, you'll find two hardware builds. If you make a custom build, please feel free to submit your build pictures! We'd love to hear from you.  
 
 All figures in the BOM are in USD.
 
-## Baseline Items
+## Baseline Items | Cost: $431
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
