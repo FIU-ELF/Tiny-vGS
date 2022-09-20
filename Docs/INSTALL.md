@@ -1,9 +1,12 @@
 # Install
 
+Follow the instructions at the Nooelec site to build your antenna:
+
+
 1. Assemble the kit
 2. Assemble your box
 3. Combine the two
-4. Run power 
+4. Run power
 
 ## Assemble the Kit
 
