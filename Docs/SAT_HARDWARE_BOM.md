@@ -43,7 +43,7 @@ In a home installation, typical options include SMA lightning arrestors and grou
 
 
 
-## Misc Hardware
+## Misc Optional Hardware
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
