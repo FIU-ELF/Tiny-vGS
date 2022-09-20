@@ -1,4 +1,4 @@
-# Sat Hardware BOM
+# Ground Station Hardware Bill of Materials
 
 ## Base Items
 
