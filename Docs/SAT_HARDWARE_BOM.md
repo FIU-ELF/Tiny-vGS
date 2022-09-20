@@ -20,7 +20,7 @@ All figures in the BOM are in USD.
 | Header      | Title       | Title       | Title       | Title       | Title       |  Title       |    
 | Header   | Text        | Title       | Title       | Title       | Title       | Title       |    
 
-## Case Option 2
+## Case Option 2 | Cost: $57
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
