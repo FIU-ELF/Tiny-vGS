@@ -26,7 +26,7 @@ All figures in the BOM are in USD.
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | Enclosure      | Weatherproof enclosure 11.4"×7.5"×5.5"       | $35       | 1       | $35      | [Enclosure](https://www.amazon.com/gp/product/B09SLJY6RV)        |  NA      |    
 | SMA connector   | SMA connectors to connect RF LNA in enclosure to antenna through a bulkhead        | $8       | 1       | $8       | [SMA Connectors](https://www.amazon.com/dp/B00AA2HE34)     | NA       |       
-
+| USB connector   | USB Bulkhead connector to power the Raspi        | $14       | 1       | $14       | [USB Bulkhead connector](https://www.amazon.com/dp/B07RPW5XGB)       | NA       |   
 
 
 ## Lightning Protection & Grounding (optional) | Total: $70
