@@ -12,8 +12,8 @@ Acquire images from a geostationary satellite ([GOES](/Docs/GOES.md)) using a ba
 
 1. Plan your installation- Plan your installation by performing a site survey: [Plan your installation](/Docs/PLANNING.md)
 3. Plan your BOM & acquire hardware- Use a base BOM, add specific needs for your use case and acquire hardware: [Hardware BOM](/Docs/SAT_HARDWARE_BOM.md)
-4. Assemble and install your setup- Let's assemble the kit and install the setup: [Installing the hardware](/Docs/INSTALL.md)
-5. Setup your edge device- Create an edge appliance that allows you to run virtualized radio functions: [Setup your edge](/Docs/EDGE.md)
+4. Setup your edge device- Create an edge appliance that allows you to run virtualized radio functions: [Setup your edge](/Docs/EDGE.md)
+5. Assemble and install your setup- Let's assemble the kit and install the setup: [Installing the hardware](/Docs/INSTALL.md)
 6. Virtualized Radio Functions & Infrastructure as Code- Learn about virtualized radio functions and infrastructure as code: [vRF & IAC](/Docs/IAC_VRF.md)
 7. Point your dish & acquire your first image- You are ready to point your dish! Let's try to get an image: [Point your dish](/Docs/POINTING.md)
 8. Design and perform trades on a Cloud based solution- Perform trade studies on how to create value added capability with the cloud: [The Cloud](/Docs/CLOUD.md)
