@@ -29,7 +29,7 @@ All figures in the BOM are in USD.
 | USB connector   | USB Bulkhead connector to power the Raspi        | $14       | 1       | $14       | [USB Bulkhead connector](https://www.amazon.com/dp/B07RPW5XGB)       | NA       |   
 
 
-## Lightning Protection & Grounding (optional) | Total: $70
+## Lightning Protection & Grounding (Optional) | Total: $70
 
 Lightning protection and proper grounding are important. In this tutorial, the reccomendation is that you only use the ground station during clear sky conditions. Store it during other times. The portability of the kit to take to schools is a benefit of the tripod setup. However, for permanent installations, check with your local rules and/or facilities manager for proper grounding techniques. 
 
@@ -44,10 +44,14 @@ In a home installation, typical options include SMA lightning arrestors and grou
 | Grounding rod   | Grounding rod to ground antenna mount        | $40       | 1       | $40       | [Grounding rod kit](https://www.amazon.com/Electric-Satellite-Instruments-Generator-Grounding/dp/B09BLZ2M58/)       | If the install is a roof of a facility, there may be ground paths already that you can connect to. Grounding rods are meant to go into the ground of your backyard.       | 
 
 
-
-## Misc Optional Hardware
+## Misc Hardware (Some of this you may have on hand)
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header      | Title       | Title       | Title       | Title       | Title       |  Title       |    
-| Header   | Text        | Title       | Title       | Title       | Title       | Title       |     
+| Sockitbox      | Enclosure for cables and power supples       | $30       | 1       | $30       | [Box](https://www.amazon.com/gp/product/B006EUHT2W)  |  TBD       | 
+| SMA Cables   | Various SMA cables for interconnects        | $13       | 1       | $13       | [SMA cables](https://www.amazon.com/SDTC-Tech-Coaxial-Assembly-Extender/dp/B07NCLZWHH/)       | Depending on your install, you might need Misc SMA Cables    |
+| Step Drill Bit Kit   | Step Bits to help create the openings in the enclosure box        | $20       | 1       | $20       | [Step Bit Kit](https://www.amazon.com/gp/product/B09GXP5WSH)       | Step Bits are the easiest way to modify plastic enclosures       |   
+| Header   | Text        | Title       | Title       | Title       | Title       | Title       | 
+| Header   | Text        | Title       | Title       | Title       | Title       | Title       | 
+| Header   | Text        | Title       | Title       | Title       | Title       | Title       | 
+| GPS Unit   | Text        | Title       | Title       | Title       | Title       | Title       | 
