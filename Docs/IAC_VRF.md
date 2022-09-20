@@ -2,4 +2,4 @@
 
 ## Traditional way of running GOES Tools
 
-## Containerized
+## Containers
