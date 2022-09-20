@@ -29,7 +29,7 @@
 | Header      | Title       | Title       | Title       | Title       | Title       |   
 | Paragraph   | Text        | Title       | Title       | Title       | Title       |   
 
-## Misc hardware
+## Misc Hardware
 
 | Item      | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
