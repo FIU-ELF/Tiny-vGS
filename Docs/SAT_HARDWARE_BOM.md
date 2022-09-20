@@ -1,13 +1,16 @@
-# Ground Station Hardware Bill of Materials (BOM)
+# Ground Station Hardware & Bill of Materials (BOM) | Cost: $431
+
+Real world Ground Station designs are often based on a standard baseline Bill of Materials with options for customization to meet user needs. In this tutorial, you'll find two hardware builds. If you make a custom build, please feel free to submit your build pictures! We'd love to hear from you.  
 
 All figures in the BOM are in USD.
 
-## Base Items
+## Baseline Items
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Header      | Title       | Title       | Title       | Title       | Title       |  Title       |    
-| Header   | Text        | Title       | Title       | Title       | Title       | Title       |    
+| GOES Kit      | This is our RF ground station kit       | $199       | 1       | $199       | Nooelec Goes Bundle](https://www.amazon.com/dp/B07K25Y1JW)         |  Comes with antenna, LNA and RTL-SDR       |    
+| Tripod   | Tripod to mount the antenna         | $52       | 1       | $52       | Tripod](https://www.amazon.com/Tripod-Satellite-Mount-Antenna-Network/dp/B0B2213CV7)       | NA      |    
+| Raspberry Pi 4   | This is our edge compute housing all our containerized RF and monitoring solutions        | $180       | 1       |   $180     | TBD       | Currently, there is a raspi shortage.       | 
 
 
 ## Case Option 1
