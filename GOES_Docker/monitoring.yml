@@ -1,0 +1,24 @@
+version: '3.2'
+services:
+  Raspihealth:
+    image: fiuelf/azure-raspi-health:latest
+    restart: unless-stopped
+    privileged: true
+    volumes:
+      - ./Azure.json:/app/Azure.json
+    logging:
+     options:
+      max-size: "10m"
+  Goeshealth:
+    image: fiuelf/azure-goes-health:latest
+    restart: unless-stopped
+    privileged: true
+    volumes:
+      - ./Azure.json:/app/Azure.json
+    logging:
+     options:
+      max-size: "10m"
+    network_mode: "host"  
+    expose:
+      - "6001"
+      - "6002"   
