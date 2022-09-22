@@ -3,6 +3,6 @@
 ## Grafana
 
 <p align="middle">
-    <img src="/Docs/Images/OSS/OSS1.PNG" alt="Dishpointer" width="60%" height="60%">
+    <img src="/Docs/Images/OSS/OSS1.PNG" alt="grafana" width="80%" height="80%">
 </p>
 
