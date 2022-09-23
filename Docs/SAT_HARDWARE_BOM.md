@@ -44,7 +44,7 @@ In a home installation, typical options include SMA lightning arrestors and grou
 | Grounding rod   | Grounding rod to ground antenna mount        | $40       | 1       | $40       | [Grounding rod kit](https://www.amazon.com/Electric-Satellite-Instruments-Generator-Grounding/dp/B09BLZ2M58/)       | If the install is a roof of a facility, there may be ground paths already that you can connect to. Grounding rods are meant to go into the ground of your backyard.       | 
 
 
-## Misc Hardware (Optional, some of this you may have on hand)
+## Misc Hardware (Optional, some of this you may want to testing and/or building)
 
 | Item      | Description | Cost | Quantity | Total | Link | Notes |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
