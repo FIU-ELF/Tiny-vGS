@@ -6,7 +6,7 @@ Tiny virtual Ground Station (vGS) is a Raspberry Pi based Ground Station meant t
 
 Video of MVP product:
 
-[![Tiny vGS]([/Docs/Images/vid.jpg](https://www.youtube.com/watch?v=BR16w32aYq8/0.jpg))](https://www.youtube.com/watch?v=BR16w32aYq8 "Tiny vGS")
+[![Tiny vGS]([/Docs/Images/vid.JPG](https://www.youtube.com/watch?v=BR16w32aYq8/0.jpg))](https://www.youtube.com/watch?v=BR16w32aYq8 "Tiny vGS")
 
 # Background
 
