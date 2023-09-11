@@ -31,8 +31,8 @@ Acquire images from a geostationary satellite ([GOES](/Docs/GOES.md)) using a ba
 12. Content Delivery Network- Create a Content Delivery application for your images: [CDN](/Docs/CDN.md)
 
 # 2023 Hackathon additions     
-13. JSON EventHub description
-14. Chatbot
+13. JSON EventHub description- Learn about the datasets going to EventHubs: [JSON](/Docs/JSON.md)
+14. Chatbot- Create a chabot to interact with your data: : [CHAT](/Docs/CHAT.md)
 
 # Future Ideas 
 
