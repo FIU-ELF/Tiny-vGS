@@ -19,18 +19,20 @@ Communities and remote users around the world rely on public weather data sets t
 Acquire images from a geostationary satellite ([GOES](/Docs/GOES.md)) using a backyard Ground Station setup. To do this, you'll acquire a ground station kit, use open source software to download an image and use the cloud to visualize system performance. You'll work through the steps to install & virtualize your setup:
 
 1. Plan your installation- Plan your installation by performing a site survey: [Plan your installation](/Docs/PLANNING.md)
-3. Plan your BOM & acquire hardware- Use a base BOM, add specific needs for your use case and acquire hardware: [Hardware BOM](/Docs/SAT_HARDWARE_BOM.md)
-4. Setup your edge device- Create an edge appliance that allows you to run virtualized radio functions: [Setup your edge](/Docs/EDGE.md)
-5. Assemble and install your setup- Let's assemble the kit and install the setup: [Installing the hardware](/Docs/INSTALL.md)
-6. Virtualized Radio Functions & Infrastructure as Code- Learn about virtualized radio functions and infrastructure as code: [vRF & IAC](/Docs/IAC_VRF.md)
-7. Point your dish & acquire your first image- You are ready to point your dish! Let's try to get an image: [Point your dish](/Docs/POINTING.md)
-8. Design and perform trades on a Cloud based solution- Perform trade studies on how to create value added capability with the cloud: [The Cloud](/Docs/CLOUD.md)
-9. Microservices- Run microservices to expose metrics to your operations support systems: [Microservices](/Docs/MICRO.md)
-10. Operations Support Systems- Implement Operations Support Systems: [OSS](/Docs/OSS.md)
-11. Business Support systems- Use cloud Business Support Systems to understand billing: [BSS](/Docs/BSS.md)
-12. Content Delivery Network- Create a Content Delivery application for your images: [CDN](/Docs/CDN.md)
-13. JSON EventHub description- Learn about the datasets going to EventHubs: [JSON](/Docs/JSON.md)
-14. Chatbot- Create a chabot to interact with your data: : [CHAT](/Docs/CHAT.md)
+2. Plan your BOM & acquire hardware- Use a base BOM, add specific needs for your use case and acquire hardware: [Hardware BOM](/Docs/SAT_HARDWARE_BOM.md)
+3. Setup your edge device- Create an edge appliance that allows you to run virtualized radio functions: [Setup your edge](/Docs/EDGE.md)
+4. Assemble and install your setup- Let's assemble the kit and install the setup: [Installing the hardware](/Docs/INSTALL.md)
+5. Virtualized Radio Functions & Infrastructure as Code- Learn about virtualized radio functions and infrastructure as code: [vRF & IAC](/Docs/IAC_VRF.md)
+6. Point your dish & acquire your first image- You are ready to point your dish! Let's try to get an image: [Point your dish](/Docs/POINTING.md)
+7. Design and perform trades on a Cloud based solution- Perform trade studies on how to create value added capability with the cloud: [The Cloud](/Docs/CLOUD.md)
+8. Microservices- Run microservices to expose metrics to your operations support systems: [Microservices](/Docs/MICRO.md)
+9. Operations Support Systems- Implement Operations Support Systems: [OSS](/Docs/OSS.md)
+10. Business Support systems- Use cloud Business Support Systems to understand billing: [BSS](/Docs/BSS.md)
+11. Content Delivery Network- Create a Content Delivery application for your images: [CDN](/Docs/CDN.md)
+
+# 2023 Hackathon 
+12. JSON EventHub description- Learn about the datasets going to EventHubs: [JSON](/Docs/JSON.md)
+13. Chatbot- Create a chabot to interact with your data: : [CHAT](/Docs/CHAT.md)
 
 # Future Ideas 
 
