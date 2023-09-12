@@ -1,3 +1,6 @@
+*detailed descriptions for each section and the meaning of the labels incoming
+
+The follow is the JSON message structure that is streamed to EventHubs for the Microservice monitoring the health of the Raspberry Pi. 
 
 ```yaml
 {
@@ -62,3 +65,43 @@
     },
 }
 ```
+
+The follow is the JSON message structure that is streamed to EventHubs for the Microservice monitoring the health of the GOES Receive chain. 
+```yaml
+{
+  "msg_timestamp": time,
+  "name": name,
+  "label": "Tinyvgs",
+  "payload": {
+    "Receiver Gain": {
+      "healthStatus": "good",
+      "Gain": float(payload_values[&quot;gain&quot;]),
+      "measurement_timestamp": time},
+    "Frequency Value": {
+      "healthStatus": "good",
+      "Frequency": float(payload_values[&quot;freq&quot;]),
+      "measurement_timestamp": time},
+    "Omega Value": {
+      "healthStatus": "good",
+      "Omega": float(payload_values[&quot;omega&quot;]),
+      "measurement_timestamp": time},
+    "Vit Value": {
+      "healthStatus": "good",
+      "Vit": float(payload_values[&quot;vit&quot;]),
+      "measurement_timestamp": time},                
+    "RS Value": {
+      "healthStatus": "good",
+      "RS": float(payload_values[&quot;rs&quot;]),
+      "measurement_timestamp": time},              
+    "Skipped": {
+      "healthStatus": "good",
+      "Skipped": float(payload_values[&quot;skipped&quot;]),
+      "measurement_timestamp": time},                                      
+    "Ok": {
+      "healthStatus": "good",
+      "Ok": float(payload_values[&quot;ok&quot;]),
+      "measurement_timestamp": time},
+    },
+  }
+```
+
