@@ -47,7 +47,8 @@ The open source software community is leveraged heavily in this project.
 
 1. Thank you Pieter Noordhuis for your hard work with [GOES Tools](https://github.com/pietern/goestools) 
 2. Thank you to [Nooelec](https://www.nooelec.com/store/) for creating kits that make GOES more accessible to the every day user
-3. Thank you to the team that contributed to this project as part of the 2022 Microsoft Hackathon 
+3. Thank you to the team that contributed to this project as part of the 2022 Microsoft Hackathon
+4. The students at Olin College and Florida International University that built 2 Tiny vGS ground stations. 
 
 
 
