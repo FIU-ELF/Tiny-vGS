@@ -1,11 +1,10 @@
 # Tiny-vGS
 
-Tiny virtual Ground Station (vGS) is a Raspberry Pi based Ground Station meant to get students involved in the intersection of space and ground station virtualization.
-
 *We're still in the process of updating the public GH.
 
-Video of Microsoft 2022 Hackathon:
+Tiny virtual Ground Station (vGS) is a Raspberry Pi based Ground Station meant to get students involved in the intersection of space and ground station virtualization.
 
+Video of Microsoft 2022 Hackathon:
 
 
 [![Tiny vGS](https://github.com/FIU-ELF/Tiny-vGS/blob/main/Docs/Images/vid.JPG)](https://www.youtube.com/watch?v=BR16w32aYq8 "Tiny vGS")
