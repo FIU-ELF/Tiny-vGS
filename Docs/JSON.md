@@ -1,7 +1,31 @@
 *detailed descriptions for each section and the meaning of the labels incoming
 
-The follow is the JSON message structure that is streamed to EventHubs for the Microservice monitoring the health of the Raspberry Pi. 
+## Raspi data field description
 
+The follow is the JSON message structure that is streamed to EventHubs for the Microservice monitoring the health of the Raspberry Pi. 
+| Month    | Description |
+| -------- | ------- |
+| Chip_temp  | womp    |
+| Clock_rate | womp     |
+| Under_voltage_detected    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+|    | womp    |
+
+
+## Raspi JSON output format
 ```yaml
 {
 "msg_timestamp": time,
