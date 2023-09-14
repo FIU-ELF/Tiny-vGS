@@ -8,21 +8,21 @@ The follow is the JSON message structure that is streamed to EventHubs for the M
 | Chip_temp  | womp    |
 | Clock_rate | womp     |
 | Under_voltage_detected    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
-|    | womp    |
+| Arm_Freq_cap    | womp    |
+| Currently_throttled  | womp    |            
+| Soft_limit_active  | womp    |                                    
+| Under_voltage_happened  | womp    |
+| Arm_Freq_cap_occurred  | womp    |
+| Throttling_occurred  |  womp    |
+| Soft_Temp_limit_occurred  | womp    |
+| Core_volt  | womp    |
+| disk_free_gb  | womp    |
+| disk_total_gb  | womp    |
+| disk_percent  | womp    |
+| memory_available  | womp    |
+| memory_total  | womp    |
+| memory_load  | womp    |
+| CPU_percent  | womp    |
 
 
 ## Raspi JSON output format
